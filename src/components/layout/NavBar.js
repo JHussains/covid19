@@ -1,9 +1,9 @@
-import React , {Fragment} from 'react'
+import React , {Fragment} from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Button from '@material-ui/core/Button';
 import { Link } from 'react-router-dom';
-import '../../App.css'
+import '../../App.css';
 import logo from '../../vid21.png';
 export default function NavBar() {
     return (
