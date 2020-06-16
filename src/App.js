@@ -3,7 +3,6 @@ import NavBar from './components/layout/NavBar';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import {Contact,Home,Search} from './components/pages'
 import './App.css';
-import covidnewlogo from './covidnewlogo.png';
 import Footer from './components/util/Footer'
 export default class App extends Component {
 // async componentDidMount(){
