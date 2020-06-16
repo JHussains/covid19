@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../../App.css'
+import '../../App.css';
 import CardsSearch from '../util/CardsSearch';
 export default class Search extends Component {
   // async componentDidMount(){
