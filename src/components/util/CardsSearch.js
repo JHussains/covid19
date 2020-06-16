@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import CountUp from 'react-countup';
 import { Card, CardContent, Typography, Grid } from '@material-ui/core';
-import LineGraph from './LineGraph'
+import LineGraph from './LineGraph';
 function CardsSearch(props) {
     if (!props.data[0]) {
         return (
