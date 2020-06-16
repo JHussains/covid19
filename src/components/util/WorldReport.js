@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import Cards from './Cards';
 
 export default class WorldReport extends Component {
