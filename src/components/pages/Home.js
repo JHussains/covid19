@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import WorldReport from '../util/WorldReport';
 import PakistanReport from '../util/PakistanReport';
 export default class Home extends Component {
