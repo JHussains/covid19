@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import NavBar from './components/layout/NavBar';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import {Contact,Home,Search} from './components/pages'
+import {Contact,Home,Search} from './components/pages';
 import './App.css';
-import Footer from './components/util/Footer'
+import Footer from './components/util/Footer';
 export default class App extends Component {
 // async componentDidMount(){
 //     const data = await this.fetchData();
